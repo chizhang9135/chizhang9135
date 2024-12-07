@@ -1,2 +1,70 @@
-
-Personal Website: chizhang9135.github.io
+Here's a GitHub README template based on your resume. Let me know if you'd like to adjust anything!
+
+---
+
+<h1 align="center">👋 Hi, I'm Chi Zhang</h1>
+<h3 align="center">💻 Building Systems 🌟 Learning Deep Tech 🚀 Innovating Solutions</h3>
+
+- 🔭 I’m currently working on **Software Engineering Projects**
+- 🌱 I’m currently learning **Cloud Computing and Advanced Backend Development**
+- 🤝 I’m looking for help with **Publishing Papers and Research Projects**
+- 📝 I regularly write on [LinkedIn](https://linkedin.com/in/chizhang0810)
+- 📫 How to reach me: **[chizhang@fastmail.com](mailto:chizhang@fastmail.com)**
+
+<div align="center">
+  [![Chi Zhang's GitHub | Stats](https://stats.quira.sh/chizhang9135/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)
+  ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=chizhang9135&show_icons=true&theme=dracula&locale=en&count_private=true)
+</div>
+
+---
+
+## 📕 Technology Stack
+
+### **Languages**
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Shell](https://skillicons.dev/icons?i=bash)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Haskell](https://skillicons.dev/icons?i=haskell)
+
+### **Frameworks & Tools**
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![ReactJS](https://skillicons.dev/icons?i=react)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Electron](https://skillicons.dev/icons?i=electron)
+
+### **Cloud & CI/CD**
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+
+### **Databases**
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Redis](https://skillicons.dev/icons?i=redis)
+
+---
+
+## 🖥️ My Devices
+![Linux](https://skillicons.dev/icons?i=linux)
+![MacOS](https://skillicons.dev/icons?i=apple)
+![Windows](https://skillicons.dev/icons?i=windows)
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/chizhang0810" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://leetcode.com/sakurapuare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+</p>
+
+<div align="center">
+  ![Chi Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chizhang9135&show_icons=true&theme=dracula&locale=en&count_private=true)
+  ![Chi Zhang's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=chizhang9135)
+</div>
