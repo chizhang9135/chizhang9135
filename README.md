@@ -9,7 +9,7 @@ Here's a GitHub README template based on your resume. Let me know if you'd like 
 - 🌱 I’m currently learning **Cloud Computing and Advanced Backend Development**
 - 🤝 I’m looking for help with **Publishing Papers and Research Projects**
 - 📝 I regularly write on [LinkedIn](https://linkedin.com/in/chizhang0810)
-- 📫 How to reach me: **[chizhang@fastmail.com](mailto:chizhang@fastmail.com)**
+- 📫 How to reach me: **[chi.z.dev@fastmail.com](mailto:chi.z.dev@fastmail.com)**
 
 
   [![Chi Zhang's GitHub | Stats](https://stats.quira.sh/chizhang9135/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)  
