@@ -13,7 +13,7 @@ Here's a GitHub README template based on your resume. Let me know if you'd like 
 
 <div align="center">
   [![Chi Zhang's GitHub | Stats](https://stats.quira.sh/chizhang9135/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)
-  ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=chizhang9135&show_icons=true&theme=dracula&locale=en&count_private=true)
+  [![Chi Zhang's GitHub | Languages Over Time](https://stats.quira.sh/chizhang9135/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)
 </div>
 
 ---
