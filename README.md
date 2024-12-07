@@ -11,10 +11,10 @@ Here's a GitHub README template based on your resume. Let me know if you'd like 
 - 📝 I regularly write on [LinkedIn](https://linkedin.com/in/chizhang0810)
 - 📫 How to reach me: **[chizhang@fastmail.com](mailto:chizhang@fastmail.com)**
 
-<div align="center">
-  [![Chi Zhang's GitHub | Stats](https://stats.quira.sh/chizhang9135/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)
+
+  [![Chi Zhang's GitHub | Stats](https://stats.quira.sh/chizhang9135/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)  
   [![Chi Zhang's GitHub | Languages Over Time](https://stats.quira.sh/chizhang9135/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)
-</div>
+
 
 ---
 
@@ -61,7 +61,6 @@ Here's a GitHub README template based on your resume. Let me know if you'd like 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/chizhang0810" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://leetcode.com/sakurapuare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
 </p>
 
 <div align="center">
