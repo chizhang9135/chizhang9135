@@ -63,7 +63,3 @@ Here's a GitHub README template based on your resume. Let me know if you'd like 
   <a href="https://linkedin.com/in/chizhang0810" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
-<div align="center">
-  ![Chi Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chizhang9135&show_icons=true&theme=dracula&locale=en&count_private=true)
-  ![Chi Zhang's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=chizhang9135)
-</div>
